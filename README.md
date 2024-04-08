@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 To get a copy of this project up and running on your local machine, follow these steps:
 
-1. Clone the repository: git clone https://github.com/your-username/qr-code-component.git
+1. Clone the repository: git clone https://github.com/Damilordz/qr-code-component.git
 
 2. Navigate into the project directory
   
@@ -24,7 +24,7 @@ To get a copy of this project up and running on your local machine, follow these
 
 ## Preview
 
-You can see a live preview of this component [here](#).
+You can see a live preview of this component [here](https://damilordz.github.io/qr-code-component/).
 
 ## Acknowledgements
 
@@ -32,7 +32,7 @@ This project was inspired by a challenge on [Frontend Mentor](https://www.fronte
 
 ## Author
 
-- **Adebowale Emmanuel** - [GitHub](https://github.com/Damilordz) - [LinkedIn](www.linkedin.com/in/adebowaleemmanuel)
+- **Adebowale Emmanuel** - [GitHub](https://github.com/Damilordz) - [LinkedIn](https://www.linkedin.com/in/adebowaleemmanuel)
 
 
 
